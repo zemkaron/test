@@ -1,4 +1,4 @@
-li:nth-child(3n+1){
+li:nth-child(3n+1) {
     background-color: blue;
 }
 
@@ -10,4 +10,8 @@ li:nth-child(3n+1){
     height: 5em;
     background-color: black;
     color: whitesmoke;
+}
+
+.footer {
+    background-color: red;
 }
